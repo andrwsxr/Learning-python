@@ -1,3 +1,5 @@
 # Aprendiendo a Programar Desde 0 🚀
-## Objetivo 🎯: no llegar a la **UCLA** to perdio' y ganar mucho dinero
+## Objetivos 🎯: 
+- No llegar a la **UCLA** to perdio'
+- Dominar el Mundo
 
